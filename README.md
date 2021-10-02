@@ -1,8 +1,8 @@
-AES Encryption
+###AES Encryption
 
-Encryption is the process of encoding information using a function or an algorithm. It converts a message called ìplaintextî which is generally human readable to ìciphertextî, a string of non-interpretable characters.
+Encryption is the process of encoding information using a function or an algorithm. It converts a message called ‚Äúplaintext‚Äù which is human readable to ‚Äúciphertext‚Äù, generally a string of non-interpretable characters.
 
-AES encryption algorithm was originally called ìRijndael cipher ì and was developed by Belgian cryptographers in 1998. It has been chosen as the advanced encryption standard(AES) by the national institute of standards and technology for its security (provided by the strength of the algorithm)
+AES encryption algorithm was originally called ‚ÄúRijndael cipher ‚Äú and was developed by Belgian cryptographers in 1998. It has been chosen as the advanced encryption standard(AES) by the National Institute of Standards and Technology for its security (provided by the strength of the algorithm)
 and efficiency (It takes very less time for computers to encrypt and decrypt messasges)
 
 This project will demonstrate without mathematical proof the working principles of the AES encryption algorithm and its decryption.
