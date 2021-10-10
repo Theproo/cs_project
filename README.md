@@ -1,4 +1,4 @@
-### AES Encryption - R.Balaji And ROhith.J
+### AES Encryption - R.Balaji And Rohith.J
 
 Encryption is the process of encoding information using a function or an algorithm. It converts a message called “plaintext” which is human readable to “ciphertext”, generally a string of non-interpretable characters.
 
